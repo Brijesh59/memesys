@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="244.682 93.74 1279.84 118.73" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-path" transform="translate(838.49 18.9)">
+      <rect class="cls-1" x="585.23" y="676.3" width="110.55" height="1280.62" transform="translate(1957.12 676.1) rotate(90)" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g class="cls-4" style="clip-path: url(#clip-path);" transform="matrix(1, 0, 0, 1, -594.008545, -1178.310059)">
+    <circle class="cls-5" cx="1012.06" cy="1416.89" r="725.99" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+    <circle class="cls-5" cx="1012.06" cy="1844.56" r="1011.56" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+    <circle class="cls-5" cx="1012.06" cy="1012.06" r="1011.56" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+  </g>
+  <path class="cls-6" d="M319.42,1272.43v-8.28H311.2v-2.82h8.22v-8.18h2.83v8.18h8.22v2.82h-8.22v8.28Z" style="fill: rgb(233, 237, 223);" transform="matrix(1, 0, 0, 1, 244.481445, -1159.410059)"/>
+  <path class="cls-6" d="M958.71,1272.43v-8.28h-8.22v-2.82h8.22v-8.18h2.83v8.18h8.22v2.82h-8.22v8.28Z" style="fill: rgb(233, 237, 223);" transform="matrix(1, 0, 0, 1, 244.481445, -1159.410059)"/>
+  <path class="cls-6" d="M639.12,1272.43v-8.28H630.9v-2.82h8.22v-8.18H642v8.18h8.22v2.82H642v8.28Z" style="fill: rgb(233, 237, 223);" transform="matrix(1, 0, 0, 1, 244.481445, -1159.410059)"/>
+  <line class="cls-7" x1="1159.32" y1="1290.51" x2="1159.32" y2="1390.78" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;" transform="matrix(1, 0, 0, 1, -594.008545, -1178.310059)"/>
+  <line class="cls-7" x1="1479.06" y1="1288.06" x2="1479.06" y2="1390.78" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;" transform="matrix(1, 0, 0, 1, -594.008545, -1178.310059)"/>
+  <line class="cls-7" x1="1798.62" y1="1285.64" x2="1798.62" y2="1390.78" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;" transform="matrix(1, 0, 0, 1, -594.008545, -1178.310059)"/>
+  <line class="cls-7" x1="839.53" y1="1281.69" x2="2118.53" y2="1281.69" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;" transform="matrix(1, 0, 0, 1, -594.008545, -1178.310059)"/>
+</svg>

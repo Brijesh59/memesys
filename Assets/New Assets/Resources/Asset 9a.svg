@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-1044.794 -1393.835 3101.82 3287.67" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-path" transform="translate(519.02)">
+      <rect class="cls-1" x="909.88" y="1131.92" width="100.22" height="1280.62" transform="translate(2732.21 812.24) rotate(90)" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(519.02)">
+      <rect class="cls-1" x="0.78" width="640" height="1814" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g>
+      <g class="cls-2" style="clip-path: url(#clip-path);" transform="matrix(1, 0, 0, 1, -1045.293823, -1393.834961)">
+        <circle class="cls-3" cx="1012.06" cy="1848.44" r="725.99" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+        <circle class="cls-3" cx="1012.06" cy="2276.11" r="1011.56" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+        <circle class="cls-3" cx="1012.06" cy="1443.61" r="1011.56" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+      </g>
+      <g>
+        <line class="cls-4" x1="1393.686" y1="427.445" x2="-526.274" y2="427.445" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+        <line class="cls-4" x1="1393.686" y1="327.445" x2="-526.274" y2="327.445" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+        <g>
+          <g class="cls-5" style="clip-path: url(#clip-path-2);" transform="matrix(1, 0, 0, 1, -1045.293823, -1393.834961)">
+            <circle class="cls-3" cx="1914.97" cy="956.88" r="608.59" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+            <circle class="cls-3" cx="1604.27" cy="956.47" r="847.98" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+            <circle class="cls-3" cx="2254.34" cy="956.88" r="847.98" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+          </g>
+          <line class="cls-4" x1="114.496" x2="114.496" y2="-973.335" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;" y1="-1393.835"/>
+          <g>
+            <g>
+              <g>
+                <polygon class="cls-6" points="113.786 327.165 1393.706 327.165 1393.706 -1088.835 113.786 -973.115 113.786 327.165" style="fill: rgb(51, 53, 50);"/>
+                <g>
+                  <rect class="cls-7" x="213.256" y="-237.155" width="279.41" height="261.67" style="fill: rgb(233, 237, 223);"/>
+                  <rect class="cls-7" x="213.256" y="-638.155" width="279.41" height="261.67" style="fill: rgb(233, 237, 223);"/>
+                  <rect class="cls-7" x="601.256" y="-638.155" width="279.41" height="261.67" style="fill: rgb(233, 237, 223);"/>
+                  <rect class="cls-7" x="601.256" y="-237.155" width="279.41" height="261.67" style="fill: rgb(233, 237, 223);"/>
+                </g>
+              </g>
+              <g>
+                <line class="cls-4" x1="211.706" y1="-715.065" x2="880.206" y2="-715.065" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+              </g>
+            </g>
+            <polygon class="cls-9" points="-206.294 74.165 113.706 74.165 113.706 -972.845 -206.294 -944.835 -206.294 74.165" style="fill: rgb(207, 220, 213);"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line class="cls-4" x1="114.496" y1="327.115" x2="114.496" y2="427.385" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+    <line class="cls-4" x1="434.236" y1="327.165" x2="434.236" y2="427.385" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+  </g>
+</svg>

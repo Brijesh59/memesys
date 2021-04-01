@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="284.131 -12.25 1281 224.72" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-path" transform="translate(837.53 855.69)">
+      <rect class="cls-1" x="1.16" y="319.61" width="1280.62" height="215.48" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <line class="cls-2" x1="284.131" y1="-3.01" x2="1565.131" y2="-3.01" style="fill: rgb(36, 36, 34);"/>
+  <g class="cls-6" transform="matrix(1, 0, 0, 1, -553.398804, -1178.310059)" style="clip-path: url(#clip-path);">
+    <circle class="cls-7" cx="1012.06" cy="1416.89" r="725.99" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+    <circle class="cls-7" cx="1012.06" cy="1844.56" r="1011.56" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+    <circle class="cls-7" cx="1012.06" cy="1012.06" r="1011.56" style="fill: none; stroke: rgb(207, 220, 213); stroke-miterlimit: 10;"/>
+  </g>
+  <path class="cls-8" d="M 604.511 7.03 L 604.511 -1.25 L 596.291 -1.25 L 596.291 -4.07 L 604.511 -4.07 L 604.511 -12.25 L 607.341 -12.25 L 607.341 -4.07 L 615.561 -4.07 L 615.561 -1.25 L 607.341 -1.25 L 607.341 7.03 Z" style="fill: rgb(233, 237, 223);"/>
+  <path class="cls-8" d="M 1243.801 7.03 L 1243.801 -1.25 L 1235.581 -1.25 L 1235.581 -4.07 L 1243.801 -4.07 L 1243.801 -12.25 L 1246.631 -12.25 L 1246.631 -4.07 L 1254.851 -4.07 L 1254.851 -1.25 L 1246.631 -1.25 L 1246.631 7.03 Z" style="fill: rgb(233, 237, 223);"/>
+  <path class="cls-8" d="M 924.211 7.03 L 924.211 -1.25 L 915.991 -1.25 L 915.991 -4.07 L 924.211 -4.07 L 924.211 -12.25 L 927.041 -12.25 L 927.041 -4.07 L 935.261 -4.07 L 935.261 -1.25 L 927.041 -1.25 L 927.041 7.03 Z" style="fill: rgb(233, 237, 223);"/>
+  <line class="cls-9" x1="605.921" y1="-3.01" x2="605.921" y2="212.47" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+  <line class="cls-9" x1="925.661" y1="-3.01" x2="925.661" y2="212.47" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+  <line class="cls-9" x1="1245.221" y1="-3.01" x2="1245.221" y2="212.47" style="fill: none; stroke: rgb(233, 237, 223); stroke-miterlimit: 10;"/>
+</svg>
